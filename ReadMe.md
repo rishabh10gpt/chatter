@@ -31,7 +31,8 @@ A real-time chat application using **FastAPI** and **WebSockets** that allows us
    git clone https://github.com/rishabh10gpt/chatter.git
    cd chatter
 2. 
- pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 3. 
     ```bash
