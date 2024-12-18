@@ -1,0 +1,45 @@
+body {
+    background-color: #fdf8e3;
+    font-family: 'Courier New', Courier, monospace;
+    color: #333;
+}
+.container {
+    max-width: 600px;
+    margin: auto;
+}
+.card {
+    background-color: #fef6e4;
+    border: 1px solid #ffccaa;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.chat-window {
+    background-color: #faf3dd;
+    border: 2px solid #ffccaa;
+    border-radius: 5px;
+    padding: 10px;
+    height: 300px;
+    overflow-y: auto;
+    color: #000;
+}
+.btn-primary {
+    background-color: #87a8d0;
+    border-color: #87a8d0;
+}
+.btn-primary:hover {
+    background-color: #7189a3;
+    border-color: #7189a3;
+}
+.btn-danger {
+    background-color: #ff7b54;
+    border-color: #ff7b54;
+}
+.retro-font {
+    font-family: 'Courier New', Courier, monospace;
+}
+#loader {
+    display: none;
+    font-size: 1.2rem;
+    color: #87a8d0;
+    text-align: center;
+    margin-top: 10px;
+}
